@@ -31,3 +31,7 @@ span {
     height: 100px;
     background-color: chocolate;
 }
+
+h1, h2 {
+    color: blue;
+}
