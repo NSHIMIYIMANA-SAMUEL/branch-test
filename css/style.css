@@ -35,3 +35,7 @@ span {
 h1, h2 {
     color: blue;
 }
+
+body {
+    background-color: rgb(75, 75, 177);
+}
