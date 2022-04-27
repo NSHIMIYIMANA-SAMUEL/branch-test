@@ -3,7 +3,31 @@
     font-family: sans-serif;
 }
 
+.shapes {
+    text-align: center;
+}
+
 span {
-    background-color: red;
-    margin-right: 2px;
+    display: inline-block;
+    border: none;
+    margin-right: 60px;
+}
+
+.cycle {
+    width: 30px;
+    height: 100px;
+    border-radius: 150px;
+    background-color: chocolate;
+}
+
+.rectangle {
+    width: 85px;
+    height: 80px;
+    background-color: chocolate;
+}
+
+.square {
+    width: 50px;
+    height: 100px;
+    background-color: chocolate;
 }
